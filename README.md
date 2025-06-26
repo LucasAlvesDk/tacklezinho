@@ -38,8 +38,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
